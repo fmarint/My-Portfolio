@@ -1,0 +1,8 @@
+:root {
+    --primary-color: yellow;
+    --primary-color-rgb: 207, 31, 31;
+}
+
+html {
+    background: black;
+}
